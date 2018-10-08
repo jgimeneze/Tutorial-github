@@ -10,5 +10,5 @@ git commit -am "Versio 1"
 git push  
 git pull  
 
-* Com faig un <INTRO>  
+* Com faig un INTRO  
 Cal posar dos espais en blanc al final de la línia  
