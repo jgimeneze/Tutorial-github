@@ -10,5 +10,22 @@ git commit -am "Versio 1"
 git push  
 git pull  
 
-* Com faig un INTRO  
+* Com faig un INTRO?  
 Cal posar dos espais en blanc al final de la línia  
+
+* Com poso caixes, fletxes, ...?  
+Utilitzant http://asciiflow.com/  
+
+* Com creo una carpeta des de la web?  
+Quan estàs posant el nom a un arxiu nou poses "carpeta/nom_arxiu"
+
+* Perquè no puc crear arxius nous des de la web?  
+Cal crear l'arxiu README.md i posar algo dintre  
+
+* Com faig una taula?  
+Separant els camps amb |  
+Exemple:
+Nom     | Nota
+Pere    | 8
+Eva     | 9
+
