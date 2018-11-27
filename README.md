@@ -24,7 +24,7 @@ Cal crear l'arxiu README.md i posar algo dintre
 
 * Com faig una taula?  
 Separant els camps amb |  
-Exemple:  
+**Exemple:**  
 Nom  | Nota  
 Pere |  8  
 Eva  |  9  
